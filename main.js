@@ -51,6 +51,7 @@ $(function() {
     className:'htCenter htMiddle',
     colWidths: 200,
     rowHeights:50,
+    width:800,
     //colHeaders: true
     colHeaders: [
       '语言名称',
